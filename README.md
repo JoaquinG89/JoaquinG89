@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there, I’m Joaquin Gonzalez 👋
+I’m a data professional with a background in industrial engineering and logistics, now focused on data analysis and data science. After completing a comprehensive Data Science & AI program with the Institute of Data and UTS, I’ve been applying my skills through hands-on projects involving Python, machine learning, and data storytelling. I’m passionate about using data to solve real-world problems and drive business value.
 <!--
 **JoaquinG89/JoaquinG89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
